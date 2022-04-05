@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jean-Bermudas</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="images/logoShop.ico">
+    
+</head>
+<body>
+    <header>
+        <div class="header-section container">
+            <img class="logo" src="./images/logoShop.png" alt="logo">
+            <nav>
+                <ul class="links-containers">
+                    <li class="link-item"><a href="index.html" class="link">Inicio</a></li>
+                    <li class="link-item"><a href="buzos.html" class="link">Buzos</a></li>
+                    <li class="link-item"><a href="gorras.html" class="link">Gorras</a></li>
+                    <li class="link-item"><a href="jean-b.html" class="link">Jean-Bermudas</a></li>
+                    <li class="link-item"><a href="remeras.html" class="link">Remeras</a></li>
+                </ul>
+            </nav>
+            <div>
+                <img onmouseover="showCart(this)" class="cart" src="./images/cart.png" alt="">
+                <p class="count-product">0</p>
+            </div>
+            <div class="cart-products" id="products-id">
+                <p class="close-btn" onclick="closeBtn()">X</p>
+                <h3>Carrito</h3>
+                <div class="card-items">
+                </div>
+                <h2>Total: <strong class="price-total">0</strong> $</h2>
+            </div>
+        </div>
+    </header>
+    <section class="container">
+        <div class="products" id="jybDiv"></div>
+    </section>
+
+    <footer>
+        <div class="footerC">
+            <img src="./images/logoShop.png" class="logo" alt="logo">
+                <div class="footer-ul">
+                    <ul class="categoria">
+                        <li><a href="index.html" class="li-links">Inicio</a></li>
+                        <li><a href="buzos.html" class="li-links">Buzos</a></li>
+                        <li><a href="gorras.html" class="li-links">Gorras</a></li>
+                        <li><a href="jean-b.html" class="li-links">Jean-Bermudas</a></li>
+                        <li><a href="remeras.html" class="li-links">Remeras</a></li>
+                    </ul>
+                </div>
+            </div>
+        <div class="borde"></div>
+        <div class="about">
+            <p>Email: contact@example.com  ||  Teléfono: 3424578512  ||  Dirección: Quaglia 262 Local 20 • Bariloche</p>
+        </div>
+    </footer>
+
+    <script>
+        function showCart(x){
+            document.getElementById("products-id").style.display = "block";
+        }
+        function closeBtn(){
+             document.getElementById("products-id").style.display = "none";
+        }
+
+    </script>
+    <script src="./custom.js" ></script>
+    <script src="jean-b.js"></script>
+</body>
+</html>

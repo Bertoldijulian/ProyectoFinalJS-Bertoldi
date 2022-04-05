@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "marca": "Buzo U/N",
+        "precio": 3800,
+        "descrpcion": "buzo canguro color beige claro con escrituras en las mangas y el pecho",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo-1.jpg"
+    },
+    
+    {
+        "id": 2,
+        "marca": "Buzo M/E",
+        "precio": 3200,
+        "descrpcion": "buzo color beige con bolsillo en el frente",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo-2.jpg"
+    },
+
+    {
+        "id": 3,
+        "marca": "Buzo U/N",
+        "precio": 4200,
+        "descrpcion": "buzo canguro color azul osucoro con botones en el escote",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo-3.png"
+    },
+
+    {
+        "id": 4,
+        "marca": "Buzo M/E",
+        "precio": 3600,
+        "descrpcion": "buzo canguro color beige, verde y blanco",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo-4.png"
+    },
+
+    {
+        "id": 5,
+        "marca": "Buzo M/E",
+        "precio": 3800,
+        "descrpcion": "buzo canguro color negro con escrituras en las mangas",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo5.png"
+    },
+    
+    {
+        "id": 6,
+        "marca": "Buzo U/N",
+        "precio": 3600,
+        "descrpcion": "buzo color blanco con escritura en el frente",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo6.jpg"
+    },
+
+    {
+        "id": 7,
+        "marca": "Buzo M/E",
+        "precio": 3600,
+        "descrpcion": "buzo canguro color blanco y negro con escritura en el frente",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo7.png"
+    },
+
+    {
+        "id": 8,
+        "marca": "Buzo U/N",
+        "precio": 3800,
+        "descrpcion": "buzo canguro color amarillo blanquesino",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo8.png"
+    },
+
+    {
+        "id": 9,
+        "marca": "Buzo M/E",
+        "precio": 3500,
+        "descrpcion": "buzo canguro color verde moco y negro",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo9.png"
+    },
+
+    {
+        "id": 10,
+        "marca": "Buzo U/N",
+        "precio": 3800,
+        "descrpcion": "buzo canguro color amarrillo con escritura en una manga y el pecho",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo10.png"
+    },
+
+    {
+        "id": 11,
+        "marca": "Buzo M/E",
+        "precio": 3500,
+        "descrpcion": "buzo canguro color gris claro",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo11.jpg"
+    },
+
+    {
+        "id": 12,
+        "marca": "Buzo U/N",
+        "precio": 3100,
+        "descrpcion": "buzo color vino con bolsillo y sin capucha",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo12.png"
+    },
+
+    {
+        "id": 13,
+        "marca": "Buzo M/E",
+        "precio": 3100,
+        "descrpcion": "buzo color bordo sin capucha y con bolsillo en el pecho",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo13.png"
+    },
+
+    {
+        "id": 14,
+        "marca": "Buzo M/E",
+        "precio": 3200,
+        "descrpcion": "buzo color blanco y rojo con escritura en el pecho",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo14.png"
+    },
+
+    {
+        "id": 15,
+        "marca": "Buzo U/N",
+        "precio": 3100,
+        "descrpcion": "buzo color rojo oscuro con escritura en el frente",
+        "talles": "Talles en S, M, L, XL",
+        "img": "buzo15.png"
+    }
+
+]
